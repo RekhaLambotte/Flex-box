@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    
+  }
+  body{
+    margin: 0;
+    padding: 0;
+    
+  }
+  main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .line {
+    display: flex;
+    flex-flow: row wrap;
+  }
+
+  .item{
+    padding-top:10px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+
+  }
+
+  .bomb{
+    background-image: url("Image/bomb.png");
+    background-position: center;
+    border: dashed 1px black;
+  }
+  .bloc{
+    border-color:  lightgray;
+    border-width: 15px;
+    border-style: inset;
+  }
+  .empty{
+    border: dashed 1px black;
+    background-color: #CBCBCB;
+  }
+  .full{
+    border: outset 2px white;
+    background-color: lightgray;
+  
+  }
+  .hidden1, .hidden1, .hidden3{
+    opacity: 0;
+  }
+  .hidden1:hover{
+    opacity: 1;
+    color: blue;
+  }
+
+  .hidden2:hover{
+       opacity: 1;
+    color: green;
+  }
+
+  .hidden3:hover{
+    opacity: 1;
+    color: red;
+  }
+  
+  .full:hover{
+    border: 0px;
+    background-color: lightgray;
+    border: dashed 1px black;
+  }
+
+  .one{
+    color: blue;
+    border: dashed 1px black;
+    background-color: lightgray;
+  }
+
+  .two{
+    color: green;
+    border: dashed 1px black;
+    background-color:lightgray;
+    }
+
+  .three{
+    color: red;
+    border: dashed 1px black;
+    background-color: lightgray;
+  
+  }
+
+  

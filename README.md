@@ -16,7 +16,7 @@ Pour cet exercice je dois fait un jeu minefiled avec principalement flex-box.
 Le temps accordé est de 1 journée. 
 
 ## But à atteindre :
-![minefield à dupliquer](image/goal-minefield)
+![minefield à dupliquer](image/goal-minefield.png)
 
 
 ## Projet déployé: 

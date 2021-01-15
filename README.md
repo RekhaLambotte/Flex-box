@@ -20,6 +20,6 @@ Le temps accordé est de 1 journée.
 
 
 ## Projet déployé: 
-Lien Github : 
+Lien Github : https://github.com/RekhaLambotte/Flex-box.git
 
-Lien web: 
+Lien web:  https://rekhalambotte.github.io/Flex-box/.
